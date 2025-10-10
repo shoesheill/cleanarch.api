@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{375A4FEF-A3C3-0A44-9037-9D13F730BE46}|src\\MyProject.API\\MyProject.API.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375A4FEF-A3C3-0A44-9037-9D13F730BE46}|src\\MyProject.API\\MyProject.API.csproj|solutionrelative:src\\myproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375A4FEF-A3C3-0A44-9037-9D13F730BE46}|src\\MyProject.API\\MyProject.API.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.api\\extensions\\swaggerdependenciesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375A4FEF-A3C3-0A44-9037-9D13F730BE46}|src\\MyProject.API\\MyProject.API.csproj|solutionrelative:src\\myproject.api\\extensions\\swaggerdependenciesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375A4FEF-A3C3-0A44-9037-9D13F730BE46}|src\\MyProject.API\\MyProject.API.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.api\\myproject.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{375A4FEF-A3C3-0A44-9037-9D13F730BE46}|src\\MyProject.API\\MyProject.API.csproj|solutionrelative:src\\myproject.api\\myproject.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375A4FEF-A3C3-0A44-9037-9D13F730BE46}|src\\MyProject.API\\MyProject.API.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.api\\myproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{375A4FEF-A3C3-0A44-9037-9D13F730BE46}|src\\MyProject.API\\MyProject.API.csproj|solutionrelative:src\\myproject.api\\myproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36451B57-ACBB-632C-81DB-ECE3BCF81F33}|src\\MyProject.Application\\MyProject.Application.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.application\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{36451B57-ACBB-632C-81DB-ECE3BCF81F33}|src\\MyProject.Application\\MyProject.Application.csproj|solutionrelative:src\\myproject.application\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375A4FEF-A3C3-0A44-9037-9D13F730BE46}|src\\MyProject.API\\MyProject.API.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.api\\middleware\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375A4FEF-A3C3-0A44-9037-9D13F730BE46}|src\\MyProject.API\\MyProject.API.csproj|solutionrelative:src\\myproject.api\\middleware\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36451B57-ACBB-632C-81DB-ECE3BCF81F33}|src\\MyProject.Application\\MyProject.Application.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.application\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36451B57-ACBB-632C-81DB-ECE3BCF81F33}|src\\MyProject.Application\\MyProject.Application.csproj|solutionrelative:src\\myproject.application\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD187C9C-E956-0AFF-9869-6FF297AE928B}|src\\MyProject.Contracts\\MyProject.Contracts.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.contracts\\resources\\module\\module.ja.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD187C9C-E956-0AFF-9869-6FF297AE928B}|src\\MyProject.Contracts\\MyProject.Contracts.csproj|solutionrelative:src\\myproject.contracts\\resources\\module\\module.ja.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD187C9C-E956-0AFF-9869-6FF297AE928B}|src\\MyProject.Contracts\\MyProject.Contracts.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.contracts\\resources\\module\\module.en.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD187C9C-E956-0AFF-9869-6FF297AE928B}|src\\MyProject.Contracts\\MyProject.Contracts.csproj|solutionrelative:src\\myproject.contracts\\resources\\module\\module.en.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD187C9C-E956-0AFF-9869-6FF297AE928B}|src\\MyProject.Contracts\\MyProject.Contracts.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.contracts\\resources\\message\\message.ja.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD187C9C-E956-0AFF-9869-6FF297AE928B}|src\\MyProject.Contracts\\MyProject.Contracts.csproj|solutionrelative:src\\myproject.contracts\\resources\\message\\message.ja.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD187C9C-E956-0AFF-9869-6FF297AE928B}|src\\MyProject.Contracts\\MyProject.Contracts.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.contracts\\resources\\message\\message.en.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD187C9C-E956-0AFF-9869-6FF297AE928B}|src\\MyProject.Contracts\\MyProject.Contracts.csproj|solutionrelative:src\\myproject.contracts\\resources\\message\\message.en.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD187C9C-E956-0AFF-9869-6FF297AE928B}|src\\MyProject.Contracts\\MyProject.Contracts.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.contracts\\resources\\error\\error.ja.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD187C9C-E956-0AFF-9869-6FF297AE928B}|src\\MyProject.Contracts\\MyProject.Contracts.csproj|solutionrelative:src\\myproject.contracts\\resources\\error\\error.ja.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD187C9C-E956-0AFF-9869-6FF297AE928B}|src\\MyProject.Contracts\\MyProject.Contracts.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.contracts\\resources\\error\\error.en.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD187C9C-E956-0AFF-9869-6FF297AE928B}|src\\MyProject.Contracts\\MyProject.Contracts.csproj|solutionrelative:src\\myproject.contracts\\resources\\error\\error.en.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36451B57-ACBB-632C-81DB-ECE3BCF81F33}|src\\MyProject.Application\\MyProject.Application.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.application\\abstractions\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36451B57-ACBB-632C-81DB-ECE3BCF81F33}|src\\MyProject.Application\\MyProject.Application.csproj|solutionrelative:src\\myproject.application\\abstractions\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81322130-EEF8-B622-BDFB-E0497DD395A7}|src\\MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.domain\\valueconverters\\ulidvalueconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81322130-EEF8-B622-BDFB-E0497DD395A7}|src\\MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:src\\myproject.domain\\valueconverters\\ulidvalueconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81322130-EEF8-B622-BDFB-E0497DD395A7}|src\\MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.domain\\valueconverters\\timeonlyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81322130-EEF8-B622-BDFB-E0497DD395A7}|src\\MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:src\\myproject.domain\\valueconverters\\timeonlyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81322130-EEF8-B622-BDFB-E0497DD395A7}|src\\MyProject.Domain\\MyProject.Domain.csproj|c:\\users\\asec\\downloads\\cleanarchitecturetemplate_wit1\\sushil.cleanarchitecture.template3\\src\\myproject.domain\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81322130-EEF8-B622-BDFB-E0497DD395A7}|src\\MyProject.Domain\\MyProject.Domain.csproj|solutionrelative:src\\myproject.domain\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyProject.API",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.API\\MyProject.API.csproj",
+              "RelativeDocumentMoniker": "src\\MyProject.API\\MyProject.API.csproj",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.API\\MyProject.API.csproj",
+              "RelativeToolTip": "src\\MyProject.API\\MyProject.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-10T06:45:53.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyProject.API",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.API\\MyProject.API.csproj",
+              "RelativeDocumentMoniker": "src\\MyProject.API\\MyProject.API.csproj",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.API\\MyProject.API.csproj",
+              "RelativeToolTip": "src\\MyProject.API\\MyProject.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-10T06:45:20.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Application\\README.md",
+              "RelativeDocumentMoniker": "src\\MyProject.Application\\README.md",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Application\\README.md",
+              "RelativeToolTip": "src\\MyProject.Application\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-10T06:39:06.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.API\\Middleware\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "src\\MyProject.API\\Middleware\\ExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.API\\Middleware\\ExceptionHandler.cs",
+              "RelativeToolTip": "src\\MyProject.API\\Middleware\\ExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:36:19.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Application\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\MyProject.Application\\DependencyInjection\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Application\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\MyProject.Application\\DependencyInjection\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:34:58.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\MyProject.API\\Program.cs",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.API\\Program.cs",
+              "RelativeToolTip": "src\\MyProject.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:32:42.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwaggerDependenciesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.API\\Extensions\\SwaggerDependenciesExtensions.cs",
+              "RelativeDocumentMoniker": "src\\MyProject.API\\Extensions\\SwaggerDependenciesExtensions.cs",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.API\\Extensions\\SwaggerDependenciesExtensions.cs",
+              "RelativeToolTip": "src\\MyProject.API\\Extensions\\SwaggerDependenciesExtensions.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:32:08.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Module.ja.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Contracts\\Resources\\Module\\Module.ja.Designer.cs",
+              "RelativeDocumentMoniker": "src\\MyProject.Contracts\\Resources\\Module\\Module.ja.Designer.cs",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Contracts\\Resources\\Module\\Module.ja.Designer.cs",
+              "RelativeToolTip": "src\\MyProject.Contracts\\Resources\\Module\\Module.ja.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCgAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:32:01.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Module.en.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Contracts\\Resources\\Module\\Module.en.Designer.cs",
+              "RelativeDocumentMoniker": "src\\MyProject.Contracts\\Resources\\Module\\Module.en.Designer.cs",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Contracts\\Resources\\Module\\Module.en.Designer.cs",
+              "RelativeToolTip": "src\\MyProject.Contracts\\Resources\\Module\\Module.en.Designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:31:57.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Message.ja.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Contracts\\Resources\\Message\\Message.ja.Designer.cs",
+              "RelativeDocumentMoniker": "src\\MyProject.Contracts\\Resources\\Message\\Message.ja.Designer.cs",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Contracts\\Resources\\Message\\Message.ja.Designer.cs",
+              "RelativeToolTip": "src\\MyProject.Contracts\\Resources\\Message\\Message.ja.Designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:31:52.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Message.en.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Contracts\\Resources\\Message\\Message.en.Designer.cs",
+              "RelativeDocumentMoniker": "src\\MyProject.Contracts\\Resources\\Message\\Message.en.Designer.cs",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Contracts\\Resources\\Message\\Message.en.Designer.cs",
+              "RelativeToolTip": "src\\MyProject.Contracts\\Resources\\Message\\Message.en.Designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:31:47.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.ja.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Contracts\\Resources\\Error\\Error.ja.Designer.cs",
+              "RelativeDocumentMoniker": "src\\MyProject.Contracts\\Resources\\Error\\Error.ja.Designer.cs",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Contracts\\Resources\\Error\\Error.ja.Designer.cs",
+              "RelativeToolTip": "src\\MyProject.Contracts\\Resources\\Error\\Error.ja.Designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCgAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:31:11.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.en.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Contracts\\Resources\\Error\\Error.en.Designer.cs",
+              "RelativeDocumentMoniker": "src\\MyProject.Contracts\\Resources\\Error\\Error.en.Designer.cs",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Contracts\\Resources\\Error\\Error.en.Designer.cs",
+              "RelativeToolTip": "src\\MyProject.Contracts\\Resources\\Error\\Error.en.Designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCgAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:30:46.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Application\\Abstractions\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "src\\MyProject.Application\\Abstractions\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Application\\Abstractions\\IPasswordHasher.cs",
+              "RelativeToolTip": "src\\MyProject.Application\\Abstractions\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:30:33.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UlidValueConverters.cs",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Domain\\ValueConverters\\UlidValueConverters.cs",
+              "RelativeDocumentMoniker": "src\\MyProject.Domain\\ValueConverters\\UlidValueConverters.cs",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Domain\\ValueConverters\\UlidValueConverters.cs",
+              "RelativeToolTip": "src\\MyProject.Domain\\ValueConverters\\UlidValueConverters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:30:11.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TimeOnlyConverter.cs",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Domain\\ValueConverters\\TimeOnlyConverter.cs",
+              "RelativeDocumentMoniker": "src\\MyProject.Domain\\ValueConverters\\TimeOnlyConverter.cs",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Domain\\ValueConverters\\TimeOnlyConverter.cs",
+              "RelativeToolTip": "src\\MyProject.Domain\\ValueConverters\\TimeOnlyConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:30:04.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Domain\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\MyProject.Domain\\DependencyInjection\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\asec\\Downloads\\CleanArchitectureTemplate_wit1\\Sushil.CleanArchitecture.Template3\\src\\MyProject.Domain\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\MyProject.Domain\\DependencyInjection\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:28:23.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

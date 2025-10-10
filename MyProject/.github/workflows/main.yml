@@ -1,0 +1,61 @@
+name: Publish NuGet Package
+
+on:
+  push:
+    tags:
+      - v[0-9]+.*  # Triggers when you push a tag like v1.0.0
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧾 Checkout repository
+        uses: actions/checkout@v3
+
+      - name: ⚙️ Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '9.0.x' # adjust to your target .NET version
+
+      - name: 🏷 Extract version from tag
+        id: get_version
+        run: echo "VERSION=${GITHUB_REF#refs/tags/v}" >> $GITHUB_ENV
+
+      - name: 🧱 Restore dependencies
+        run: dotnet restore cleanarch.csproj
+
+      - name: 🏗 Build + Pack NuGet Package
+        run: |
+          dotnet pack cleanarch.csproj \
+            --configuration Release \
+            --output ./nupkg \
+            /p:PackageVersion=${{ env.VERSION }}
+
+      - name: 🚀 Publish NuGet package
+        run: |
+          dotnet nuget push "./nupkg/*.nupkg" \
+            --api-key "${{ secrets.NUGET_API_KEY }}" \
+            --source "https://api.nuget.org/v3/index.json" \
+            --skip-duplicate
+
+      - name: 📘 Fetch existing README if missing
+        run: |
+          if [ -f README.md ]; then
+            echo "✅ README.md found."
+          else
+            echo "⬇️ Downloading README from main branch..."
+            curl -L -o README.md "https://raw.githubusercontent.com/${{ github.repository }}/main/README.md"
+          fi
+
+      # Optional: Update README with release info
+      # - name: 📝 Update README with version info
+      #   run: |
+      #     echo "## Release Notes" >> README.md
+      #     echo "### Version ${{ env.VERSION }}" >> README.md
+      #     echo "Released on $(date -u)" >> README.md
+      #     git config --global user.name "github-actions[bot]"
+      #     git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      #     git add README.md
+      #     git commit -m "Update README for version ${{ env.VERSION }}"
+      #     git push

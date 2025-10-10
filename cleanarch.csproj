@@ -11,8 +11,9 @@
     <PackAsTool>false</PackAsTool>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Include="**\*" Pack="true" PackagePath="" />
+    <ItemGroup>
+    <Content Include="**\*" Pack="true" PackagePath="content" Exclude="**\*.csproj;bin\**;obj\**" />
   </ItemGroup>
+
 
 </Project>
