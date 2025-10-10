@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>cleanarch.api.sample</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Sushil Shrestha</Authors>
+    <Description>Minimal Clean Architecture .NET template</Description>
+    <PackageType>Template</PackageType>
+    <IncludeContentInPack>true</IncludeContentInPack>
+    <PackAsTool>false</PackAsTool>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="**\*" Pack="true" PackagePath="" />
+  </ItemGroup>
+
+</Project>

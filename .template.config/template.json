@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Sushil Shrestha",
+  "classifications": ["CleanArchitecture", "WebAPI", ".NET"],
+  "identity": "Sushil.CleanArchitecture.Template",
+  "name": "Clean Architecture Template for WebAPI by Sushil",
+  "shortName": "cleanarch.api",
+  "sourceName": "MyProject",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "symbols": {
+    "Framework": {
+      "type": "parameter",
+      "datatype": "choice",
+      "choices": [
+        { "choice": "net8.0", "description": ".NET 8" },
+        { "choice": "net9.0", "description": ".NET 9" },
+        { "choice": "net10.0", "description": ".NET 10" }
+      ],
+      "defaultValue": "net8.0",
+      "replaces": "net8.0"
+    },
+    "DbType": {
+      "type": "parameter",
+      "datatype": "choice",
+      "description": "Select your database",
+      "choices": [
+        { "choice": "MSSQL" },
+        { "choice": "PostgreSQL" },
+        { "choice": "SQLite" }
+      ],
+      "defaultValue": "MSSQL",
+      "replaces": "MSSQL"
+    },
+    "Logging": {
+      "type": "parameter",
+      "datatype": "choice",
+      "description": "Select logging provider",
+      "choices": [
+        { "choice": "Serilog" },
+        { "choice": "None" }
+      ],
+      "defaultValue": "Serilog",
+      "replaces": "Serilog"
+    }
+  }
+}
